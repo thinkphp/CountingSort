@@ -5,10 +5,10 @@ its position in the output array.
 
 ## Analysis Complexity
 
-Worst   case time: O(n)
-Average case time: O(n)
-   Best case time: O(n)
-   Space:          O(n)
+   Worst   case time: O(n)
+   Average case time: O(n)
+      Best case time: O(n)
+      Space:          O(n)
 
 ## Demos
 
